@@ -1,3 +1,5 @@
+# CODSOFT:
+
 TASK 1:
 
 Using basic programming concepts like if-else statements and predefined responses, this project is a simple chatbot that listens to user inputs, compares them with a set of predefined queries stored in a dictionary, and provides appropriate responses based on the input. The chatbot uses a loop to continuously interact with the user until the user types "bye," at which point the conversation ends. It is made to understand basic queries like "hi," "what is your name," and "how are you," providing dictionary-based responses. This project provides a basic understanding of how chatbots operate and can be expanded with more sophisticated natural language processing techniques for improved interaction.
